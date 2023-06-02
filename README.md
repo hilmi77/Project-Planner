@@ -16,4 +16,5 @@ The App class serves as the main entry point of the application. The init method
 
 By examining this code snippet, you can gain insights into fundamental concepts and practices of front-end development and JavaScript. It covers topics such as DOM manipulation, event listeners, and component-based development.
 
+live site --> https://hilmi77.github.io/Project-Planner/
 
