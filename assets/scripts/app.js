@@ -29,7 +29,6 @@ class Component {
       // this.element.parentElement.removeChild(this.element);
     }
   }
-
   attach() {
     this.hostElement.insertAdjacentElement(
       this.insertBefore ? "afterbegin" : "beforeend",
